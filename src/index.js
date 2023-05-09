@@ -1,9 +1,11 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import  { createRoot } from 'react-dom/client';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const index = document.getElementById("root");
+const root = createRoot(index);
+
 root.render(
   <>
-  <h1>React App!</h1>
+    <h1 className="">hahahaha!!</h1>
   </>
-);  
+);

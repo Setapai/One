@@ -1,0 +1,1 @@
+miniversion of each pages but this time has their own unique usecases for each folder

@@ -1,0 +1,1 @@
+Global api Fetching and return
